@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\tpunity\\tp1\\assets\\scripts\\pausescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\assets\\scripts\\helpfriends.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\helpfriends.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\assets\\scripts\\playerinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\assets\\scripts\\checkpointmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpointmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\assets\\scripts\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\assets\\scripts\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A280DC65-CF07-DD9B-2CB7-4E59A796E610}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseScript.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\PauseScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseScript.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\PauseScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseScript.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:30:11.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelpFriends.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\HelpFriends.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HelpFriends.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\HelpFriends.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HelpFriends.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:18:16.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonsterAi.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\MonsterAi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MonsterAi.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\MonsterAi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MonsterAi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:06:44.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuScript.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\MenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuScript.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\MenuScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T01:12:46.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckpointMgr.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\CheckpointMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckpointMgr.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\CheckpointMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckpointMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:22:07.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInfos.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\PlayerInfos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInfos.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\PlayerInfos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInfos.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:11:48.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T00:12:34.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCollision.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCollision.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:40:38.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\TpUnity\\tp1\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:29:54.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
